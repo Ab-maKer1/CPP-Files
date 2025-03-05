@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735324416 source:c:\users\hp\documents\cpp\cmaths\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

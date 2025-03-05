@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1738650993 source:c:\users\hp\documents\cpp\string man\main.cpp
+	<iostream>
+	<cstring>
+
